@@ -31,7 +31,7 @@
     "instrument": true
   },
   "author": "Achilles Moraites",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.3",
     "@types/mocha": "^5.2.0",
