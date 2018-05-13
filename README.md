@@ -1,20 +1,21 @@
 # typescript-mocha-chai-nyc-boilerplate
-A simple boilerplate for typecript projects with mocha, chai and html coverage report using nyc
+A simple boilerplate for Typescript projects with mocha, chai and html coverage reports using nyc!
 
 ## Why to use
 
 As part of learning Typescript i came across of finding my self a hard time to setup all the tools to practice my coding skills. After a lot of trial and error i found the way to setup a simple yet usable environmment for my projects.
 
-Use this boilerplate and get coding asap instead of wasting your time!
+**Use this boilerplate and get coding asap instead of wasting your time!**
+
 
 ### What is included ?
 
 * Testing
-⋅⋅⋅ Test your app with Mocha and Chai... directly in Typescript!
+ **Test your app with Mocha and Chai** : directly in Typescript!
 * Coverage report
-⋅⋅⋅ Take your testing to the next level and get coverage reports to improve your codes quality
+ **Take your testing to the next level** :  get coverage reports to improve your codes quality out of the box!
 * Build your files
-⋅⋅⋅ Build your typescript files with a single command
+  **Build your typescript** : Using a single command, all pre configured.
 
 ## How to use
 
