@@ -1,5 +1,5 @@
 {
-  "name": "typescript-mocha-chai",
+  "name": "typescript-mocha-chai-nyc-boilerplate",
   "version": "1.0.0",
   "description": "Simple boilerplate for projects with typescript, mocha, chai",
   "main": "out/src/app.js",
