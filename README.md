@@ -10,12 +10,12 @@ As part of learning Typescript i came across of finding my self a hard time to s
 
 ### What is included ?
 
-* Testing
- **Test your app with Mocha and Chai** : directly in Typescript!
-* Coverage report
- **Take your testing to the next level** :  get coverage reports to improve your codes quality out of the box!
-* Build your files
-  **Build your typescript** : Using a single command, all pre configured.
+* **Testing** : 
+ Test your app with Mocha and Chai, directly in Typescript!
+* **Coverage report** : 
+ Take your testing to the next level and get coverage reports to improve your codes quality out of the box!
+* **Build your project** : 
+ Using a single command, all pre configured.
 
 ## How to use
 
