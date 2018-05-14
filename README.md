@@ -25,17 +25,21 @@ git clone https://github.com/Cyb3rN4u7/typescript-mocha-chai-nyc-boilerplate.git
 cd typescript-mocha-chai-nyc-boilerplate
 npm install
 ```
-## Usefull scripts included
+# Usefull scripts included
 
 ### Build typecript project
 ```
 npm run build
 ```
+Your built project will be located at the **./out/** directory for deployment
+
 
 ### Run Tests
 ```
 npm run test
 ```
+Your project test files will be located at the **./test/** directory and should end with **.spec.ts** 
+
 
 ### Run Coverage report
 ```
