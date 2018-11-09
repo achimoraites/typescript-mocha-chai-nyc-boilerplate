@@ -1,10 +1,12 @@
 {
-  "name": "typescript-mocha-chai-nyc-boilerplate",
+  "name": "algorithms-and-data-structures",
   "version": "1.0.0",
-  "description": "Simple boilerplate for projects with typescript, mocha, chai",
+  "description": "Having fun with Algorithms",
   "main": "out/src/app.js",
+  "private": true,
   "repository": {
-    "github": "https://github.com/Cyb3rN4u7/typescript-mocha-chai-nyc-boilerplate.git"
+    "type": "git",
+    "url": "git+https://github.com/Cyb3rN4u7/Algorithms-and-Data-Structures.git"
   },
   "scripts": {
     "test": "mocha -r ts-node/register test/**/*.spec.ts",
